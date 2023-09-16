@@ -9,7 +9,7 @@
 
 ### ℹ️ &nbsp;Discord
 <p align="center">
-<a href="https://discordapp.com/users/904332430687760444"><img align="center" src="https://discord.c99.nl/widget/theme-3/904332430687760444.png"/></a>
+<a href="https://discordapp.com/users/924631326869573672"><img align="center" src="https://discord.c99.nl/widget/theme-3/924631326869573672.png"/></a>
 </p>
  
 ### ℹ️ &nbsp;About Me
