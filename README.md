@@ -7,10 +7,10 @@
 [<img src="https://img.shields.io/badge/soundcloud-orange.svg?&style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
 </div>
 
-### ℹ️ &nbsp;Discord
+<!--### ℹ️ &nbsp;Discord
 <p align="center">
 <a href="https://discordapp.com/users/924631326869573672"><img align="center" src="https://discord.c99.nl/widget/theme-3/924631326869573672.png"/></a>
-</p>
+</p>-->
  
 ### ℹ️ &nbsp;About Me
 > I'm Rizz, a 16-year-old Backend Developer and Music Producer. Located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
