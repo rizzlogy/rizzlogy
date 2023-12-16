@@ -5,7 +5,11 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
 [<img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
-[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://soundcloud.com/rizzlogy)
+[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">]()
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">]()
+[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">]()
+
 </div>
 
 ### ℹ️ &nbsp;Discord
