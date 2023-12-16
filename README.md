@@ -1,8 +1,7 @@
 <div align="center">
-<h2>👋 Hello, I'm RizzyFuzz</h2>
+<h2>👋 Hello, I'm RizzyFuzz</h2><br>
 
 ![banner](https://github-production-user-asset-6210df.s3.amazonaws.com/141845356/290995682-7a03b3b1-ac11-49af-8d92-53e26d464e58.png)<br><br>
-![]()
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
 [<img src="https://img.shields.io/badge/soundcloud-orange.svg?&style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
