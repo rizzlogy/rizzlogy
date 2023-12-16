@@ -9,7 +9,6 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">]()
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">]()
 [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">]()
-
 </div>
 
 ### ℹ️ &nbsp;Discord
@@ -52,8 +51,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ### ⚙️ &nbsp;GitHub Analytics
-
-***
 <p align = "center">
   <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizzlogy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true"> </a>
  <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizzlogy&theme=dark&hide_border=true&layout=compact"> </a>
