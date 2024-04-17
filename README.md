@@ -1,7 +1,7 @@
 <div align="center">
 <h2>👋 Hello, I'm RizzyFuzz</h2><br>
 
-![banner](https://github-production-user-asset-6210df.s3.amazonaws.com/141845356/322868480-b7acafe3-9519-4691-a5c0-dbcae42ab1df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240416T134935Z&X-Amz-Expires=300&X-Amz-Signature=931ba20c486648fbd58662eb1983df181f390dbfa4c4e46e65a21dcd64577972&X-Amz-SignedHeaders=host&actor_id=141845356&key_id=0&repo_id=692387253)<br><br>
+![banner](https://github.com/rizzlogy/rizzlogy/assets/141845356/8588e189-2e11-4698-b8ee-ef4f0d509d71)<br><br>
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
 [<img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
