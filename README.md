@@ -2,7 +2,7 @@
 <h2>👋 Hello, I'm RizzyFuzz</h2><br>
 
 ![banner](https://github.com/rizzlogy/rizzlogy/assets/141845356/8588e189-2e11-4698-b8ee-ef4f0d509d71)<br><br>
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6283844722463)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
 [<img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
 [<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H)
@@ -22,7 +22,7 @@
 </p>
  
 ### ℹ️ &nbsp;About Me
-> I'm Rizz, a 16-year-old Backend Developer and Music Producer. Located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
+> I'm Rizz, a 17-year-old Backend Developer and Music Producer. Located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
 
 ### ℹ️ &nbsp;Personal Stuff's
 
