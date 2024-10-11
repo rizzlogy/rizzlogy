@@ -11,11 +11,6 @@
 [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://youtube.com/@rizzlogy)
 </div>
 
-### ℹ️ &nbsp;Discord
-<p align="center">
-<a href="https://discordapp.com/users/924631326869573672"><img align="center" src="https://discord.c99.nl/widget/theme-3/924631326869573672.png" width="500"/></a>
-</p>
-
 ### ℹ️ &nbsp;Profile Stalk
 <p align="center">
 <a href="https://rizzy.eu.org"><img align="center" src="https://count.getloli.com/get/@:rizzlogy?theme=rule34" width="500"/></a>
