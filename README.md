@@ -15,7 +15,12 @@
 <p align="center">
 <a href="https://rizzy.eu.org"><img align="center" src="https://count.getloli.com/get/@:rizzlogy?theme=rule34" width="500"/></a>
 </p>
- 
+
+### ℹ️ &nbsp;Playing Spotify
+<p align="center">
+<a href="https://rizzy.eu.org"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="500"/></a>
+</p>
+
 ### ℹ️ &nbsp;About Me
 > I'm Rizz, a 17-year-old Backend Developer and Music Producer. Located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
 
